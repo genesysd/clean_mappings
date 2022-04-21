@@ -1,0 +1,6 @@
+{"raw_col_name":"call_id_3_c","data_type":"double", "cln_col_name": "call_id_amt"}
+{"raw_col_name":"call_date_3_c","data_type":"timestamp"}
+{"raw_col_name":"company_id_3_c","data_type":"double"}
+{"raw_col_name":"date_created_3_c","data_type":"timestamp", "cln_col_name": "date_created_amt"}
+{"raw_col_name":"date_last_modified_3_c","data_type":"timestamp"}
+{"raw_col_name":"_fivetran_deleted_3","data_type":"boolean", "cln_col_name": "fivetran_deleted_flag"}
